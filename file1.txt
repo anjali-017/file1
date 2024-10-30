@@ -1,8 +1,6 @@
 Good morning buddies!!!
-<<<<<<< HEAD
 KISHKINDA UNIVERSITY
 Anjali.....
 India...
-=======
+Good morning buddies!!!
 KISHKINDA UNIVERSITY
->>>>>>> old1
